@@ -1,0 +1,7 @@
+mistralai
+faiss-cpu
+pymupdf
+streamlit
+python-dotenv
+tiktoken
+numpy
